@@ -1,0 +1,9 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Error",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "TestKey": "Test value"
+}
